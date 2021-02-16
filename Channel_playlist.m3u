@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Test1" tvg-id="None" tvg-logo="" group-title="Test",Test1
+UDP://@239.127.128.150:50050
 #EXTINF:0,RX1
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.11:50011
