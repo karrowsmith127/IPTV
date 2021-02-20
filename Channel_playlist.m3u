@@ -34,3 +34,87 @@ UDP://@239.127.128.17:50017
 #EXTINF:-1 tvg-name="RX-8" tvg-id="None" tvg-logo="" group-title="BPC",RX-8
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.18:50018
+
+#EXTINF:-1 tvg-name="RX-9" tvg-id="None" tvg-logo="" group-title="BPC",RX-9
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.19:50019
+
+#EXTINF:-1 tvg-name="RX-10" tvg-id="None" tvg-logo="" group-title="BPC",RX-10
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.20:50020
+
+#EXTINF:-1 tvg-name="RX-11" tvg-id="None" tvg-logo="" group-title="BPC",RX-11
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.21:50021
+
+#EXTINF:-1 tvg-name="RX-12" tvg-id="None" tvg-logo="" group-title="BPC",RX-12
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.22:50022
+
+#EXTINF:-1 tvg-name="RX-13" tvg-id="None" tvg-logo="" group-title="BPC",RX-13
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.23:50023
+
+#EXTINF:-1 tvg-name="RX-14" tvg-id="None" tvg-logo="" group-title="BPC",RX-14
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.24:50024
+
+#EXTINF:-1 tvg-name="RX-15" tvg-id="None" tvg-logo="" group-title="BPC",RX-15
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.25:50025
+
+#EXTINF:-1 tvg-name="RX-16" tvg-id="None" tvg-logo="" group-title="BPC",RX-16
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.26:50026
+
+#EXTINF:-1 tvg-name="RX-17" tvg-id="None" tvg-logo="" group-title="BPC",RX-17
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.27:50027
+
+#EXTINF:-1 tvg-name="RX-18" tvg-id="None" tvg-logo="" group-title="BPC",RX-18
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.28:50028
+
+#EXTINF:-1 tvg-name="RX-19" tvg-id="None" tvg-logo="" group-title="BPC",RX-19
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.29:50029
+
+#EXTINF:-1 tvg-name="RX-20" tvg-id="None" tvg-logo="" group-title="BPC",RX-20
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.30:50030
+
+#EXTINF:-1 tvg-name="RX-21" tvg-id="None" tvg-logo="" group-title="BPC",RX-21
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.31:50031
+
+#EXTINF:-1 tvg-name="RX-22" tvg-id="None" tvg-logo="" group-title="BPC",RX-22
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.32:50032
+
+#EXTINF:-1 tvg-name="RX-23" tvg-id="None" tvg-logo="" group-title="BPC",RX-23
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.33:50033
+
+#EXTINF:-1 tvg-name="RX-24" tvg-id="None" tvg-logo="" group-title="BPC",RX-24
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.34:50034
+
+#EXTINF:-1 tvg-name="RX-25" tvg-id="None" tvg-logo="" group-title="BPC",RX-25
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.35:50035
+
+#EXTINF:-1 tvg-name="RX-26" tvg-id="None" tvg-logo="" group-title="BPC",RX-26
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.36:50036
+
+#EXTINF:-1 tvg-name="RX-27" tvg-id="None" tvg-logo="" group-title="BPC",RX-27
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.37:50037
+
+#EXTINF:-1 tvg-name="RX-28" tvg-id="None" tvg-logo="" group-title="BPC",RX-28
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.38:50038
+
+#EXTINF:-1 tvg-name="RX-29" tvg-id="None" tvg-logo="" group-title="BPC",RX-29
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.39:50039
