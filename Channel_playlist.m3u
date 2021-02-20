@@ -421,6 +421,26 @@ UDP://@239.127.128.109:50109
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.110:50110
 
+#EXTINF:-1 tvg-name="RX-721" tvg-id="None" tvg-logo="" group-title="Transmission",RX-721
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.173:50173
+
+#EXTINF:-1 tvg-name="RX-722" tvg-id="None" tvg-logo="" group-title="Transmission",RX-722
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.174:50174
+
+#EXTINF:-1 tvg-name="RX-723" tvg-id="None" tvg-logo="" group-title="Transmission",RX-723
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.175:50175
+
+#EXTINF:-1 tvg-name="RX-724" tvg-id="None" tvg-logo="" group-title="Transmission",RX-724
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.176:50176
+
+#EXTINF:-1 tvg-name="RX-725" tvg-id="None" tvg-logo="" group-title="Transmission",RX-725
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.177:50177
+
 
 
 #****NHL Stadium Feeds****
@@ -648,3 +668,7 @@ UDP://@239.127.128.168:50168
 #EXTINF:-1 tvg-name="Promo Edit" tvg-id="None" tvg-logo="" group-title="Multiviewers;Edit Rooms",Promo Edit
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.169:50169
+
+#EXTINF:-1 tvg-name="Edit 49-64" tvg-id="None" tvg-logo="" group-title="Multiviewers;Edit Rooms",Edit 49-64
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.170:50170
