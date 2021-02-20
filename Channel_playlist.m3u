@@ -121,7 +121,7 @@ UDP://@239.127.128.38:50038
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.39:50039
 
-#EXTINF:-1 tvg-name="RX-30 - Future" tvg-id="None" tvg-logo="" group-title="BPC",RX-3 - Future
+#EXTINF:-1 tvg-name="RX-30 - Future" tvg-id="None" tvg-logo="" group-title="BPC",RX-30 - Future
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.40:50040
 
@@ -320,3 +320,117 @@ UDP://@239.127.128.75:50075
 #EXTINF:-1 tvg-name="ED1033" tvg-id="None" tvg-logo="" group-title="Edit Rooms",ED1033
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.80:50080
+
+
+#****Agile****
+
+
+#EXTINF:-1 tvg-name="MON73A" tvg-id="None" tvg-logo="" group-title="Agile",MON73A
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.85:50085
+
+#EXTINF:-1 tvg-name="MON564A" tvg-id="None" tvg-logo="" group-title="Agile",MON564A
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.90:50090
+
+
+#****Transmission****
+
+
+#EXTINF:-1 tvg-name="RX-351" tvg-id="None" tvg-logo="" group-title="Transmission",RX-351
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.91:50091
+
+#EXTINF:-1 tvg-name="RX-352" tvg-id="None" tvg-logo="" group-title="Transmission",RX-352
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.92:50092
+
+#EXTINF:-1 tvg-name="RX-301" tvg-id="None" tvg-logo="" group-title="Transmission",RX-301
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.93:50093
+
+#EXTINF:-1 tvg-name="RX-302" tvg-id="None" tvg-logo="" group-title="Transmission",RX-302
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.94:50094
+
+#EXTINF:-1 tvg-name="RX-303" tvg-id="None" tvg-logo="" group-title="Transmission",RX-303
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.95:50095
+
+#EXTINF:-1 tvg-name="RX-304" tvg-id="None" tvg-logo="" group-title="Transmission",RX-304
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.96:50096
+
+#EXTINF:-1 tvg-name="RX-305" tvg-id="None" tvg-logo="" group-title="Transmission",RX-305
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.97:50097
+
+#EXTINF:-1 tvg-name="RX-306" tvg-id="None" tvg-logo="" group-title="Transmission",RX-306
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.98:50098
+
+#EXTINF:-1 tvg-name="RX-307" tvg-id="None" tvg-logo="" group-title="Transmission",RX-307
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.99:50099
+
+#EXTINF:-1 tvg-name="RX-308" tvg-id="None" tvg-logo="" group-title="Transmission",RX-308
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.100:50100
+
+#EXTINF:-1 tvg-name="RX-309" tvg-id="None" tvg-logo="" group-title="Transmission",RX-309
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.101:50101
+
+#EXTINF:-1 tvg-name="RX-310" tvg-id="None" tvg-logo="" group-title="Transmission",RX-310
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.102:50102
+
+#EXTINF:-1 tvg-name="RX-311" tvg-id="None" tvg-logo="" group-title="Transmission",RX-311
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.103:50103
+
+#EXTINF:-1 tvg-name="RX-312" tvg-id="None" tvg-logo="" group-title="Transmission",RX-312
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.104:50104
+
+#EXTINF:-1 tvg-name="RX-313" tvg-id="None" tvg-logo="" group-title="Transmission",RX-313
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.105:50105
+
+#EXTINF:-1 tvg-name="RX-314" tvg-id="None" tvg-logo="" group-title="Transmission",RX-314
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.106:50106
+
+#EXTINF:-1 tvg-name="RX-315" tvg-id="None" tvg-logo="" group-title="Transmission",RX-315
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.107:50107
+
+#EXTINF:-1 tvg-name="RX-316" tvg-id="None" tvg-logo="" group-title="Transmission",RX-316
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.108:50108
+
+#EXTINF:-1 tvg-name="RX-317" tvg-id="None" tvg-logo="" group-title="Transmission",RX-317
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.109:50109
+
+#EXTINF:-1 tvg-name="RX-318" tvg-id="None" tvg-logo="" group-title="Transmission",RX-318
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.110:50110
+
+
+
+#****NHL Stadium Feeds****
+
+
+
+#EXTINF:-1 tvg-name="RX-401" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-401
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.111:50111
+
+#EXTINF:-1 tvg-name="RX-402" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-402
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.112:50112
+
+#EXTINF:-1 tvg-name="RX-403" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-403
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.113:50113
