@@ -118,3 +118,19 @@ UDP://@239.127.128.38:50038
 #EXTINF:-1 tvg-name="RX-29" tvg-id="None" tvg-logo="" group-title="BPC",RX-29
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.39:50039
+
+#EXTINF:-1 tvg-name="RX-31" tvg-id="None" tvg-logo="" group-title="BPC",RX-31
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.41:50041
+
+#EXTINF:-1 tvg-name="RX-32" tvg-id="None" tvg-logo="" group-title="BPC",RX-32
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.42:50042
+
+#EXTINF:-1 tvg-name="RX-33" tvg-id="None" tvg-logo="" group-title="BPC",RX-33
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.43:50043
+
+#EXTINF:-1 tvg-name="RX-34" tvg-id="None" tvg-logo="" group-title="BPC",RX-34
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.44:50044
