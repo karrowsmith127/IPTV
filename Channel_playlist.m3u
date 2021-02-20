@@ -573,3 +573,32 @@ UDP://@239.127.128.152:50152
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.153:50153
 
+
+
+#****Production Control Rooms****
+
+
+
+#EXTINF:-1 tvg-name="PC-1" tvg-id="None" tvg-logo="" group-title="Production Control Rooms",PC-1
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.154:50154
+
+#EXTINF:-1 tvg-name="PC-2" tvg-id="None" tvg-logo="" group-title="Production Control Rooms",PC-2
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.155:50155
+
+#EXTINF:-1 tvg-name="PC-3" tvg-id="None" tvg-logo="" group-title="Production Control Rooms",PC-3
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.156:50156
+
+#EXTINF:-1 tvg-name="OD-1" tvg-id="None" tvg-logo="" group-title="Production Control Rooms",OD-1
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.157:50157
+
+#EXTINF:-1 tvg-name="OD-2" tvg-id="None" tvg-logo="" group-title="Production Control Rooms",OD-2
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.158:50158
+
+#EXTINF:-1 tvg-name="Strike Zone" tvg-id="None" tvg-logo="" group-title="Production Control Rooms",Strike Zone
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.159:50159
