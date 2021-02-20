@@ -2,7 +2,7 @@
 
 #****BPC****
 
-#EXTINF:-1 tvg-name="Test1" tvg-id="None" tvg-logo="" group-title="Test",Test1
+#EXTINF:-1 tvg-name="Test1" tvg-id="None" tvg-logo="" group-title="Test",Test1 Delete this
 UDP://@239.127.128.150:50050
 
 #EXTINF:-1 tvg-name="RX-1" tvg-id="None" tvg-logo="" group-title="BPC",RX-1
@@ -136,3 +136,39 @@ UDP://@239.127.128.43:50043
 #EXTINF:-1 tvg-name="RX-34" tvg-id="None" tvg-logo="" group-title="BPC",RX-34
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.44:50044
+
+#EXTINF:-1 tvg-name="RX-36" tvg-id="None" tvg-logo="" group-title="BPC",RX-36
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.46:50046
+
+#EXTINF:-1 tvg-name="RX-37" tvg-id="None" tvg-logo="" group-title="BPC",RX-37
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.47:50047
+
+#EXTINF:-1 tvg-name="RX-38" tvg-id="None" tvg-logo="" group-title="BPC",RX-38
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.48:50048
+
+#EXTINF:-1 tvg-name="RX-39" tvg-id="None" tvg-logo="" group-title="BPC",RX-39
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.49:50049
+
+#EXTINF:-1 tvg-name="RX-41" tvg-id="None" tvg-logo="" group-title="BPC",RX-41
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.51:50051
+
+#EXTINF:-1 tvg-name="RX-42" tvg-id="None" tvg-logo="" group-title="BPC",RX-42
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.52:50052
+
+#EXTINF:-1 tvg-name="RX-43" tvg-id="None" tvg-logo="" group-title="BPC",RX-43
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.53:50053
+
+#EXTINF:-1 tvg-name="RX-44" tvg-id="None" tvg-logo="" group-title="BPC",RX-44
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.54:50054
+
+#EXTINF:-1 tvg-name="RX-46" tvg-id="None" tvg-logo="" group-title="BPC",RX-46
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.56:50056
