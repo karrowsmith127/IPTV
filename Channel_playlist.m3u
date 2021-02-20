@@ -337,6 +337,14 @@ UDP://@239.127.128.90:50090
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.160:50160
 
+#EXTINF:-1 tvg-name="MON399A" tvg-id="None" tvg-logo="" group-title="Agile",MON399A
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.171:50171
+
+#EXTINF:-1 tvg-name="MON400A" tvg-id="None" tvg-logo="" group-title="Agile",MON400A
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.172:50172
+
 
 #****Transmission****
 
@@ -596,6 +604,43 @@ UDP://@239.127.128.152:50152
 #EXTINF:-1 tvg-name="NHLN-Net Alt" tvg-id="None" tvg-logo="" group-title="Commercial Networks",NHLN-Net Alt
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.153:50153
+
+#EXTINF:-1 tvg-name="MLBN Comcast" tvg-id="None" tvg-logo="" group-title="Commercial Networks",MLBN Comcast
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.178:50178
+
+#EXTINF:-1 tvg-name="CBS" tvg-id="None" tvg-logo="" group-title="Commercial Networks",CBS
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.179:50179
+
+#EXTINF:-1 tvg-name="NBC" tvg-id="None" tvg-logo="" group-title="Commercial Networks",NBC
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.180:50180
+
+#EXTINF:-1 tvg-name="FOX" tvg-id="None" tvg-logo="" group-title="Commercial Networks",FOX
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.181:50181
+
+#EXTINF:-1 tvg-name="ABC" tvg-id="None" tvg-logo="" group-title="Commercial Networks",ABC
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.182:50182
+
+#EXTINF:-1 tvg-name="The Weather Channel" tvg-id="None" tvg-logo="" group-title="Commercial Networks",The Weather Channel
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.183:50183
+
+#EXTINF:-1 tvg-name="USA" tvg-id="None" tvg-logo="" group-title="Commercial Networks",USA
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.184:50184
+
+#EXTINF:-1 tvg-name="TNT" tvg-id="None" tvg-logo="" group-title="Commercial Networks",TNT
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.185:50185
+
+#EXTINF:-1 tvg-name="TBS" tvg-id="None" tvg-logo="" group-title="Commercial Networks",TBS
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.185:50185
+
 
 
 
