@@ -645,6 +645,6 @@ UDP://@239.127.128.167:50167
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.168:50168
 
-#EXTINF:-1 tvg-name="Promo Edit" tvg-id="None" tvg-logo="" group-title="Multiviewers",Promo Edit
+#EXTINF:-1 tvg-name="Promo Edit" tvg-id="None" tvg-logo="" group-title="Multiviewers" group-title="Edit Rooms",Promo Edit
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.169:50169
