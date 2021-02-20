@@ -434,3 +434,142 @@ UDP://@239.127.128.112:50112
 #EXTINF:-1 tvg-name="RX-403" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-403
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.113:50113
+
+#EXTINF:-1 tvg-name="RX-404" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-404
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.114:50114
+
+#EXTINF:-1 tvg-name="RX-405" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-405
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.115:50115
+
+#EXTINF:-1 tvg-name="RX-406" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-406
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.116:50116
+
+#EXTINF:-1 tvg-name="RX-407" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-407
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.117:50117
+
+#EXTINF:-1 tvg-name="RX-408" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-408
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.118:50118
+
+#EXTINF:-1 tvg-name="RX-409" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-409
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.119:50119
+
+#EXTINF:-1 tvg-name="RX-410" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-410
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.120:50120
+
+#EXTINF:-1 tvg-name="RX-411" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-411
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.121:50121
+
+#EXTINF:-1 tvg-name="RX-412" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-412
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.122:50122
+
+#EXTINF:-1 tvg-name="RX-413" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-413
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.123:50123
+
+#EXTINF:-1 tvg-name="RX-414" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-414
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.124:50124
+
+#EXTINF:-1 tvg-name="RX-415" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-415
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.125:50125
+
+#EXTINF:-1 tvg-name="RX-416" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-416
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.126:50126
+
+#EXTINF:-1 tvg-name="RX-417" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-417
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.127:50127
+
+#EXTINF:-1 tvg-name="RX-418" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-418
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.128:50128
+
+#EXTINF:-1 tvg-name="RX-419" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-419
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.129:50129
+
+#EXTINF:-1 tvg-name="RX-420" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-420
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.130:50130
+
+#EXTINF:-1 tvg-name="RX-421" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-421
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.131:50131
+
+#EXTINF:-1 tvg-name="RX-422" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-422
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.132:50132
+
+#EXTINF:-1 tvg-name="RX-423" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-423
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.133:50133
+
+#EXTINF:-1 tvg-name="RX-424" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-424
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.134:50134
+
+#EXTINF:-1 tvg-name="RX-425" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-425
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.135:50135
+
+#EXTINF:-1 tvg-name="RX-426" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-426
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.136:50136
+
+#EXTINF:-1 tvg-name="RX-427" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-427
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.137:50137
+
+#EXTINF:-1 tvg-name="RX-428" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-428
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.138:50138
+
+#EXTINF:-1 tvg-name="RX-429" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-429
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.139:50139
+
+#EXTINF:-1 tvg-name="RX-430" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-430
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.140:50140
+
+#EXTINF:-1 tvg-name="RX-431" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-431
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.141:50141
+
+#EXTINF:-1 tvg-name="RX-432" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-432
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.142:50142
+
+
+
+#****Commercial Networks****
+
+
+
+#EXTINF:-1 tvg-name="MLBN-Net Primary" tvg-id="None" tvg-logo="" group-title="Commercial Networks",MLBN-Net Primary
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.150:50150
+
+#EXTINF:-1 tvg-name="MLBN-Net Alt" tvg-id="None" tvg-logo="" group-title="Commercial Networks",MLBN-Net Alt
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.151:50151
+
+#EXTINF:-1 tvg-name="NHLN-Net Primary" tvg-id="None" tvg-logo="" group-title="Commercial Networks",NHLN-Net Primary
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.152:50152
+
+#EXTINF:-1 tvg-name="NHLN-Net Alt" tvg-id="None" tvg-logo="" group-title="Commercial Networks",NHLN-Net Alt
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.153:50153
+
