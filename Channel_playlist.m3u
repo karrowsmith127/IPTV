@@ -2,7 +2,7 @@
 
 #****BPC****
 
-#EXTINF:-1 tvg-name="Test1" tvg-id="None" tvg-logo="" group-title="Test",Test1 Delete this
+#EXTINF:-1 tvg-name="Test1 - Does this show up" tvg-id="None" tvg-logo="" group-title="Test",Test1 Delete this
 UDP://@239.127.128.150:50050
 
 #EXTINF:-1 tvg-name="RX-1" tvg-id="None" tvg-logo="" group-title="BPC",RX-1
