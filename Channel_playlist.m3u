@@ -333,6 +333,10 @@ UDP://@239.127.128.85:50085
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.90:50090
 
+#EXTINF:-1 tvg-name="MON351A" tvg-id="None" tvg-logo="" group-title="Agile",MON351A
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.160:50160
+
 
 #****Transmission****
 
@@ -602,3 +606,45 @@ UDP://@239.127.128.158:50158
 #EXTINF:-1 tvg-name="Strike Zone" tvg-id="None" tvg-logo="" group-title="Production Control Rooms",Strike Zone
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.159:50159
+
+
+
+#****Multiviewers****
+
+
+
+#EXTINF:-1 tvg-name="RX-v2" tvg-id="None" tvg-logo="" group-title="Multiviewers",RX-v2
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.161:50161
+
+#EXTINF:-1 tvg-name="RX-v5" tvg-id="None" tvg-logo="" group-title="Multiviewers",RX-v5
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.162:50162
+
+#EXTINF:-1 tvg-name="Mon260c - SXM" tvg-id="None" tvg-logo="" group-title="Multiviewers",Mon260c - SXM
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.163:50163
+
+#EXTINF:-1 tvg-name="MLB/NHL Quad" tvg-id="None" tvg-logo="" group-title="Multiviewers",MLB/NHL Quad
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.164:50164
+
+#EXTINF:-1 tvg-name="Network Quad" tvg-id="None" tvg-logo="" group-title="Multiviewers",Network Quad
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.165:50165
+
+#EXTINF:-1 tvg-name="News Quad" tvg-id="None" tvg-logo="" group-title="Multiviewers",News Quad
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.166:50166
+
+#EXTINF:-1 tvg-name="Sports Quad" tvg-id="None" tvg-logo="" group-title="Multiviewers",Sports Quad
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.167:50167
+
+#EXTINF:-1 tvg-name="Competition Quad" tvg-id="None" tvg-logo="" group-title="Multiviewers",Competition Quad
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.168:50168
+
+#EXTINF:-1 tvg-name="Promo Edit" tvg-id="None" tvg-logo="" group-title="Multiviewers",Promo Edit
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.169:50169
