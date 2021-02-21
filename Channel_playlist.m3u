@@ -321,6 +321,14 @@ UDP://@239.127.128.75:50075
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.80:50080
 
+#EXTINF:-1 tvg-name="ED1034" tvg-id="None" tvg-logo="" group-title="Edit Rooms",ED1034
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.240:50240
+
+#EXTINF:-1 tvg-name="ED1036" tvg-id="None" tvg-logo="" group-title="Edit Rooms",ED1036
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.241:50241
+
 
 #****Agile****
 
@@ -344,6 +352,46 @@ UDP://@239.127.128.171:50171
 #EXTINF:-1 tvg-name="MON400A" tvg-id="None" tvg-logo="" group-title="Agile",MON400A
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.172:50172
+
+#EXTINF:-1 tvg-name="MON140A" tvg-id="None" tvg-logo="" group-title="Agile",MON140A
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.238:50238
+
+#EXTINF:-1 tvg-name="MON141A" tvg-id="None" tvg-logo="" group-title="Agile",MON141A
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.239:50239
+
+#EXTINF:-1 tvg-name="MON383" tvg-id="None" tvg-logo="" group-title="Agile",MON383
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.129.101:52001
+
+#EXTINF:-1 tvg-name="MON384" tvg-id="None" tvg-logo="" group-title="Agile",MON384
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.129.102:52002
+
+#EXTINF:-1 tvg-name="MON385" tvg-id="None" tvg-logo="" group-title="Agile",MON385
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.129.103:52003
+
+#EXTINF:-1 tvg-name="MON386" tvg-id="None" tvg-logo="" group-title="Agile",MON386
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.129.104:52004
+
+#EXTINF:-1 tvg-name="MON387" tvg-id="None" tvg-logo="" group-title="Agile",MON387
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.129.105:52005
+
+#EXTINF:-1 tvg-name="BPC Command Center" tvg-id="None" tvg-logo="" group-title="Agile",BPC Command Center
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.129.106:52006
+
+#EXTINF:-1 tvg-name="Home Multiviewer" tvg-id="None" tvg-logo="" group-title="Agile",Home Multiviewer
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.129.107:52007
+
+#EXTINF:-1 tvg-name="MON390" tvg-id="None" tvg-logo="" group-title="Agile",MON390
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.129.108:52008
 
 
 #****Transmission****
@@ -448,6 +496,111 @@ UDP://@239.127.128.176:50176
 #EXTINF:-1 tvg-name="RX-725" tvg-id="None" tvg-logo="" group-title="Transmission",RX-725
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.177:50177
+
+#EXTINF:-1 tvg-name="RX-701" tvg-id="None" tvg-logo="" group-title="Transmission",RX-701
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.220:50220
+
+#EXTINF:-1 tvg-name="RX-702" tvg-id="None" tvg-logo="" group-title="Transmission",RX-702
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.221:50221
+
+#EXTINF:-1 tvg-name="RX-703" tvg-id="None" tvg-logo="" group-title="Transmission",RX-703
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.222:50222
+
+#EXTINF:-1 tvg-name="RX-704" tvg-id="None" tvg-logo="" group-title="Transmission",RX-704
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.223:50223
+
+#EXTINF:-1 tvg-name="RX-705" tvg-id="None" tvg-logo="" group-title="Transmission",RX-705
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.224:50224
+
+#EXTINF:-1 tvg-name="RX-706" tvg-id="None" tvg-logo="" group-title="Transmission",RX-706
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.225:50225
+
+#EXTINF:-1 tvg-name="RX-707" tvg-id="None" tvg-logo="" group-title="Transmission",RX-707
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.226:50226
+
+#EXTINF:-1 tvg-name="RX-708" tvg-id="None" tvg-logo="" group-title="Transmission",RX-708
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.227:50227
+
+#EXTINF:-1 tvg-name="RX-709" tvg-id="None" tvg-logo="" group-title="Transmission",RX-709
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.228:50228
+
+#EXTINF:-1 tvg-name="RX-710" tvg-id="None" tvg-logo="" group-title="Transmission",RX-710
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.229:50229
+
+#EXTINF:-1 tvg-name="RX-751" tvg-id="None" tvg-logo="" group-title="Transmission",RX-751
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.230:50230
+
+#EXTINF:-1 tvg-name="RX-752" tvg-id="None" tvg-logo="" group-title="Transmission",RX-752
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.231:50231
+
+#EXTINF:-1 tvg-name="RX-781" tvg-id="None" tvg-logo="" group-title="Transmission",RX-781
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.232:50232
+
+#EXTINF:-1 tvg-name="RX-v46" tvg-id="None" tvg-logo="" group-title="Transmission",RX-v46
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.233:50233
+
+#EXTINF:-1 tvg-name="RX-731" tvg-id="None" tvg-logo="" group-title="Transmission",RX-731
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.234:50234
+
+#EXTINF:-1 tvg-name="RX-732" tvg-id="None" tvg-logo="" group-title="Transmission",RX-732
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.235:50235
+
+#EXTINF:-1 tvg-name="RX-733" tvg-id="None" tvg-logo="" group-title="Transmission",RX-733
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.236:50236
+
+#EXTINF:-1 tvg-name="RX-734" tvg-id="None" tvg-logo="" group-title="Transmission",RX-734
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.237:50237
+
+#EXTINF:-1 tvg-name="RX-803" tvg-id="None" tvg-logo="" group-title="Transmission",RX-803
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.242:50242
+
+#EXTINF:-1 tvg-name="RX-804" tvg-id="None" tvg-logo="" group-title="Transmission",RX-804
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.243:50243
+
+#EXTINF:-1 tvg-name="RX-805" tvg-id="None" tvg-logo="" group-title="Transmission",RX-805
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.244:50244
+
+#EXTINF:-1 tvg-name="RX-806" tvg-id="None" tvg-logo="" group-title="Transmission",RX-806
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.245:50245
+
+#EXTINF:-1 tvg-name="RX-807" tvg-id="None" tvg-logo="" group-title="Transmission",RX-807
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.246:50246
+
+#EXTINF:-1 tvg-name="RX-808" tvg-id="None" tvg-logo="" group-title="Transmission",RX-808
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.247:50247
+
+#EXTINF:-1 tvg-name="RX-809" tvg-id="None" tvg-logo="" group-title="Transmission",RX-809
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.248:50248
+
+#EXTINF:-1 tvg-name="RX-810" tvg-id="None" tvg-logo="" group-title="Transmission",RX-810
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.249:50249
+
 
 
 
@@ -582,6 +735,14 @@ UDP://@239.127.128.141:50141
 #EXTINF:-1 tvg-name="RX-432" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-432
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.142:50142
+
+#EXTINF:-1 tvg-name="RX-432" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-432
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.143:50143
+
+#EXTINF:-1 tvg-name="RX-433" tvg-id="None" tvg-logo="" group-title="NHL Stadium Feeds",RX-433
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.144:50144
 
 
 
@@ -848,3 +1009,27 @@ UDP://@239.127.128.169:50169
 #EXTINF:-1 tvg-name="Edit 49-64" tvg-id="None" tvg-logo="" group-title="Multiviewers;Edit Rooms",Edit 49-64
 #EXTVLCOPT:network-caching=1000
 UDP://@239.127.128.170:50170
+
+#EXTINF:-1 tvg-name="RX-v33" tvg-id="None" tvg-logo="" group-title="Multiviewers",RX-v33
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.145:50145
+
+#EXTINF:-1 tvg-name="RX-v34" tvg-id="None" tvg-logo="" group-title="Multiviewers",RX-v34
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.146:50146
+
+#EXTINF:-1 tvg-name="RX-v35" tvg-id="None" tvg-logo="" group-title="Multiviewers",RX-v35
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.147:50147
+
+#EXTINF:-1 tvg-name="RX-v36" tvg-id="None" tvg-logo="" group-title="Multiviewers",RX-v36
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.148:50148
+
+#EXTINF:-1 tvg-name="RX-v37" tvg-id="None" tvg-logo="" group-title="Multiviewers",RX-v37
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.149:50149
+
+#EXTINF:-1 tvg-name="RX-v38" tvg-id="None" tvg-logo="" group-title="Multiviewers",RX-v38
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.150:50150
