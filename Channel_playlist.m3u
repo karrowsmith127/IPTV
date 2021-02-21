@@ -639,8 +639,139 @@ UDP://@239.127.128.185:50185
 
 #EXTINF:-1 tvg-name="TBS" tvg-id="None" tvg-logo="" group-title="Commercial Networks",TBS
 #EXTVLCOPT:network-caching=1000
-UDP://@239.127.128.185:50185
+UDP://@239.127.128.186:50186
 
+#EXTINF:-1 tvg-name="CNN" tvg-id="None" tvg-logo="" group-title="Commercial Networks",CNN
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.187:50187
+
+#EXTINF:-1 tvg-name="MSNBC" tvg-id="None" tvg-logo="" group-title="Commercial Networks",MSNBC
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.188:50188
+
+#EXTINF:-1 tvg-name="CNBC" tvg-id="None" tvg-logo="" group-title="Commercial Networks",CNBC
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.18:50189
+
+#EXTINF:-1 tvg-name="FOX News" tvg-id="None" tvg-logo="" group-title="Commercial Networks",FOX News
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.190:50190
+
+#EXTINF:-1 tvg-name="ESPN" tvg-id="None" tvg-logo="" group-title="Commercial Networks",ESPN
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.191:50191
+
+#EXTINF:-1 tvg-name="CBS Sports Network" tvg-id="None" tvg-logo="" group-title="Commercial Networks",CBS Sports Network
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.192:50192
+
+#EXTINF:-1 tvg-name="NBC Sports Network" tvg-id="None" tvg-logo="" group-title="Commercial Networks",NBC Sports Network
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.193:50193
+
+#EXTINF:-1 tvg-name="ESPN2" tvg-id="None" tvg-logo="" group-title="Commercial Networks",ESPN2
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.194:50194
+
+#EXTINF:-1 tvg-name="ESPNews" tvg-id="None" tvg-logo="" group-title="Commercial Networks",ESPNews
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.195:50195
+
+#EXTINF:-1 tvg-name="ESPNU" tvg-id="None" tvg-logo="" group-title="Commercial Networks",ESPNU
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.196:50196
+
+#EXTINF:-1 tvg-name="NFL Network" tvg-id="None" tvg-logo="" group-title="Commercial Networks",NFL Network
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.197:50197
+
+#EXTINF:-1 tvg-name="NBA TV" tvg-id="None" tvg-logo="" group-title="Commercial Networks",NBA TV
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.198:50198
+
+#EXTINF:-1 tvg-name="NHL Network" tvg-id="None" tvg-logo="" group-title="Commercial Networks",NHL Network
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.199:50199
+
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="None" tvg-logo="" group-title="Commercial Networks",Golf Channel
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.200:50200
+
+#EXTINF:-1 tvg-name="YES Network" tvg-id="None" tvg-logo="" group-title="Commercial Networks",YES Network
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.201:50201
+
+#EXTINF:-1 tvg-name="SportsNET New York" tvg-id="None" tvg-logo="" group-title="Commercial Networks",SportsNET New York
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.202:50202
+
+#EXTINF:-1 tvg-name="MSG Network" tvg-id="None" tvg-logo="" group-title="Commercial Networks",MSG Network
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.203:50203
+
+#EXTINF:-1 tvg-name="MASN" tvg-id="None" tvg-logo="" group-title="Commercial Networks",MASN
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.204:50204
+
+#EXTINF:-1 tvg-name="NESN" tvg-id="None" tvg-logo="" group-title="Commercial Networks",NESN
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.205:50205
+
+#EXTINF:-1 tvg-name="MARQUEE" tvg-id="None" tvg-logo="" group-title="Commercial Networks",MARQUEE
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.206:50206
+
+#EXTINF:-1 tvg-name="ROOT Pittsburgh" tvg-id="None" tvg-logo="" group-title="Commercial Networks",ROOT Pittsburgh
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.207:50207
+
+#EXTINF:-1 tvg-name="ROOT Seattle" tvg-id="None" tvg-logo="" group-title="Commercial Networks",ROOT Seattle
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.208:50208
+
+#EXTINF:-1 tvg-name="FSN Prime Ticket" tvg-id="None" tvg-logo="" group-title="Commercial Networks",FSN Prime Ticket
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.209:50209
+
+#EXTINF:-1 tvg-name="MLB Extra Innings" tvg-id="None" tvg-logo="" group-title="Commercial Networks",MLB Extra Innings
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.210:50210
+
+#EXTINF:-1 tvg-name="UTIL CH1" tvg-id="None" tvg-logo="" group-title="Commercial Networks",UTIL CH1
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.211:50211
+
+#EXTINF:-1 tvg-name="UTIL CH2" tvg-id="None" tvg-logo="" group-title="Commercial Networks",UTIL CH2
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.212:50212
+
+#EXTINF:-1 tvg-name="UTIL CH3" tvg-id="None" tvg-logo="" group-title="Commercial Networks",UTIL CH3
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.213:50213
+
+#EXTINF:-1 tvg-name="FOX Deportes" tvg-id="None" tvg-logo="" group-title="Commercial Networks",FOX Deportes
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.214:50214
+
+#EXTINF:-1 tvg-name="ESPN Deportes" tvg-id="None" tvg-logo="" group-title="Commercial Networks",ESPN Deportes
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.215:50215
+
+#EXTINF:-1 tvg-name="ESPN Deportes" tvg-id="None" tvg-logo="" group-title="Commercial Networks",ESPN Deportes
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.216:50216
+
+#EXTINF:-1 tvg-name="UNIVISION Deportes" tvg-id="None" tvg-logo="" group-title="Commercial Networks",UNIVISION Deportes
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.217:50217
+
+#EXTINF:-1 tvg-name="MLBN DirecTV" tvg-id="None" tvg-logo="" group-title="Commercial Networks",MLBN DirecTV
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.218:50218
+
+#EXTINF:-1 tvg-name="FUTURE" tvg-id="None" tvg-logo="" group-title="Commercial Networks",FUTURE
+#EXTVLCOPT:network-caching=1000
+UDP://@239.127.128.219:50219
 
 
 
